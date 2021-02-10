@@ -1,0 +1,14 @@
+{
+  "name": "PitStop_StarShips",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luis Felipe",
+  "license": "MIT",
+  "scripts": {
+    "launch": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1"
+  }
+}
